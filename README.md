@@ -1,2 +1,3 @@
 # hello-world
-Testing out Github stuff
+Testing out Github stuff. 
+Now testing how to commit changes.
